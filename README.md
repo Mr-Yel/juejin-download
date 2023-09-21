@@ -1,6 +1,13 @@
 <h1 align="center">juejin-download</h1>
 
+
+
 <p align="center">掘金小册下载</p>
+
+
+hxk: 修复了小册标题带上特殊标点符号下载会报错的问题
+
+原项目地址 https://github.com/findmio/juejin-download
 
 ## 使用方法
 
