@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "e9887362915e5761",
+    "type": "split",
+    "children": [
+      {
+        "id": "233c2e96103e82c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3682ca6d9db4f17a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.歌手列表1：横向分类列表开发，搞定诸多类似场景.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b6ed6b250c628c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "510e8558c330b541",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ff72b6940b75b8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1250236847b037de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6892976169a01fc1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ea4eb02de8361a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "36b8dfb819a156e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66d63bd9af0dd830",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10.歌手列表1：横向分类列表开发，搞定诸多类似场景.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32bb0483680aed29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10.歌手列表1：横向分类列表开发，搞定诸多类似场景.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43237f3e6544825a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb480de636745c23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10.歌手列表1：横向分类列表开发，搞定诸多类似场景.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "3682ca6d9db4f17a",
+  "lastOpenFiles": [
+    "9.性能及体验优化【实战精华】.md",
+    "8.推荐模块3： 从零开发数据层.md",
+    "7.推荐模块2： 打造巨好用的项目灵魂组件 ——Scroll 组件.md",
+    "6.推荐模块1： 打造酷炫轮播及列表.md",
+    "5.搭建项目基本骨架【磨刀不误砍柴工】.md",
+    "4.初始化项目【万丈高楼平地起】.md",
+    "3.为什么要在 React 中用 Immutable 数据流？【全程实战指导方针】.md",
+    "2.React 的 Reconciliation 算法原理【开局必备框架原理】.md",
+    "1.项目介绍及小册食用说明【不看错亿】.md"
+  ]
+}
