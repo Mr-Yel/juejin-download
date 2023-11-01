@@ -68,6 +68,27 @@ const main = async () => {
         });
         /**/
         
+
+        /* 替换引号 '"'  */
+        sectionPath = sectionPath.replace(/\"|\'/g, (match, offset) => {
+            return '”'
+          });
+          /**/
+
+          
+
+        /* 替换尖括号 '<'  */
+        sectionPath = sectionPath.replace(/\</g, (match, offset) => {
+            return '《'
+          });
+          /**/
+
+        /* 替换尖括号 '>'  */
+        sectionPath = sectionPath.replace(/\>/g, (match, offset) => {
+            return '》'
+          });
+          /**/
+        
         // console.log(sectionInfo.content);
         fs.writeFileSync(sectionPath, sectionInfo.content);
         console.log(`第 ${section.index} 章下载完成`);
